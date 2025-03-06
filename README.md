@@ -29,9 +29,19 @@ class SobreMim extends Desenvolvedor {
     <td>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaamendes&theme=dark&hide_&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
   </td>
-  
   </tr>
 </table><br/>
+</table><br/>
+
+### learning: 
+
+<div align="center" style="display: inline_block"><br/>
+    <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+<br/>
 
 <br>
 <footer>
