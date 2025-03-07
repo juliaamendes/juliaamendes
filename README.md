@@ -15,7 +15,7 @@ import Desenvolvedor from "Julia Mendes";
 class SobreMim extends Desenvolvedor {
   nome = "Julia Mendes";
   area = "developer";
-  cursando = Desenvolvimento de Sistemas - SENAI
+  curso = Desenvolvimento de Sistemas - Senai
   \\ jovem aprendiz no Metro de São Paulo
 }
 
