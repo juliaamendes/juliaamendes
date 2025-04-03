@@ -49,6 +49,7 @@ class SobreMim extends Desenvolvedor {
 <br>
 <footer>
 <p align="center" >   
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/09/png-gif-1.gif"/>
   <img src="https://profile-counter.glitch.me/juliaamendes/count.svg" />  
 </p>
 </footer>
