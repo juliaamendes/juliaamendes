@@ -5,9 +5,9 @@
   </tr>
 </table>
 
-<img align="right" src="https://i.redd.it/7wvp4hsqw2q91.png" width="300">
 
-### <img src="https://camo.githubusercontent.com/383a01776630091258548fb0b2514d5fa4f55be2cdaf979b03c4460c4ea803a9/68747470733a2f2f7777772e74656368736f6c7574696f6e6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f776562736974652d646576656c6f702e676966" width="60"> A little more about me...
+
+### <img width="60"> A little more about me...
 
 ```js
 import Desenvolvedor from "Julia Mendes";
