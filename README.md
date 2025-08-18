@@ -1,7 +1,7 @@
 
 <table>
   <tr>
-    <img align='center' src= "https://i.pinimg.com/originals/94/b2/1a/94b21a17d8a954aee4e7228457d52729.gif" width="300" height="380">
+    <img align='center' src= "https://img.lovepik.com/background/20211021/large/lovepik-cool-line-technology-banner-background-image_400112106.jpg" width="700" height="380">
   </tr>
 </table>
 
