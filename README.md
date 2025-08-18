@@ -37,6 +37,7 @@ class SobreMim extends Desenvolvedor {
 
 <div align="center" style="display: inline_block"><br/>
    <img align="center" alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="" src="https://img.shields.io/badge/Kotlin-	ED8B00?style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -52,7 +53,6 @@ class SobreMim extends Desenvolvedor {
 <br>
 <footer>
 <p align="center" >   
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/09/png-gif-1.gif" width="150px">
   <img src="https://profile-counter.glitch.me/juliaamendes/count.svg" />  
 </p>
 </footer>
