@@ -1,13 +1,13 @@
  <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Olá,+eu+sou+a+Julia+Mendes;Jr+Developer💻;Seja+bem-vindo+ao+meu+Github🐧" alt="Typing SVG">
 <table>
   <tr>
-    <img align='center' src= "https://img.lovepik.com/background/20211021/large/lovepik-cool-line-technology-banner-background-image_400112106.jpg" width="700" height="380">
+    <img align='center' src= "https://img.lovepik.com/background/20211021/large/lovepik-cool-line-technology-banner-background-image_400112106.jpg" width="900" height="180">
   </tr>
-</table>
+</table height="200">
 
 
 
-### <img width="60"> A little more about me...
+###  A little more about me...
 
 ```js
 import Desenvolvedor from "Julia Mendes";
