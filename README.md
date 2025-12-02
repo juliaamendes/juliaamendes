@@ -24,10 +24,7 @@ class SobreMim extends Desenvolvedor {
 <table>
   <tr>
     <td>
-     <img align="center" src="" alt=" />
-      </td>
-    <td>
-<img align="left" src="" alt="" />
+
   </td>
   </tr>
 </table><br/>
