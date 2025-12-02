@@ -14,7 +14,7 @@ import Desenvolvedor from "Julia Mendes";
 
 class SobreMim extends Desenvolvedor {
   nome = "Julia Mendes";
-  area = "Desenvolvedora Web/ UI & UX- Fullstack";
+  area = "Desenvolvedora UI & UX/ automação";
   curso = Desenvolvimento de Sistemas - Senai
   \\ jovem aprendiz no Metro de São Paulo
 }
