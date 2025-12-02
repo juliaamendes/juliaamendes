@@ -1,4 +1,4 @@
- <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Olá,+eu+sou+a+Julia+Mendes;Jr+Developer💻;Seja+bem-vindo+ao+meu+Github🐧" alt="Typing SVG">
+ <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Olá,+eu+sou+a+Julia+Mendes;Jr+Developer💻;Seja+bem-vindo+ao+meu+Github🩷" alt="Typing SVG">
 <table>
   <tr>
 
