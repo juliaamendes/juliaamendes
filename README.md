@@ -1,4 +1,4 @@
- <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Olá,+eu+sou+a+Julia+Mendes;Jr+Developer💻;Seja+bem-vindo+ao+meu+Github🩷" alt="Typing SVG">
+ <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Olá,+eu+sou+a+Julia+Mendes;Developer💻;Seja+bem-vindo+ao+meu+Github🩷" alt="Typing SVG">
 <table>
   <tr>
 
@@ -14,8 +14,8 @@ import Desenvolvedor from "Julia Mendes";
 
 class SobreMim extends Desenvolvedor {
   nome = "Julia Mendes";
-  area = "Desenvolvedora UI & UX/ automação";
-  curso = Desenvolvimento de Sistemas - Senai
+  area = "Automação";
+  curso = Engenharia Mecânica e Desenvolvimento de Sistemas 
   \\ jovem aprendiz no Metro de São Paulo
 }
 
