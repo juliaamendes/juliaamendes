@@ -1,4 +1,4 @@
- <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Olá,+eu+sou+a+Julia+Mendes;Developer💻;Seja+bem-vindo+ao+meu+Github🩷" alt="Typing SVG">
+ <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Oii,+eu+sou+a+Julia+Mendes;Developer💻;Seja+bem-vindo+ao+meu+Github🩷" alt="Typing SVG">
 <table>
   <tr>
 
@@ -30,43 +30,46 @@ class SobreMim extends Desenvolvedor {
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=juliaamendes&show_icons=true" />
 </picture>
 
 ---
-##  &nbsp;Tecnologias e Linguagens
+##  &nbsp;Tecnologias
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ea1210?style=for-the-badge&logo=openjdk&logoColor=black"/>
- <img src="https://img.shields.io/badge/C-ea1210?style=for-the-badge&logo=C&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<br>
-<img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="center" alt="" src="https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=c++&logoColor=white"/>
-<img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=autocad,arduino,git,spring,nodejs,npm" />
+   <br>
+    <img src="https://skillicons.dev/icons?i=ai,figma" />
+  </a>
+</p>
+
+##  &nbsp;Linguagens
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,cpp,cs,r,kotlin" />
+   <br>
+   <img src="https://skillicons.dev/icons?i=css,html,js,react" />
+  </a>
+</p>
 
 
+
+
+
+---
+## &nbsp;Ambientes
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman,pycharm" />
+  </a>
 </p>
 
 ---
-## &nbsp;Ferramentas e Ambientes
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
----
-[<img align="left" height="35px" width="80px" alt="Warpnet" src="https://github.com/G648/G648/assets/54600850/df40fbee-6a0b-4243-a2db-9f7e0c7391ea"/>](https://sp.senai.br/unidade/conectividade/)
     
-  
+ 
 </div>
 
 <br/>
