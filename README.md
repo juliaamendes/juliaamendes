@@ -52,7 +52,7 @@ Desenvolvedor eu = {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=autocad,arduino,git,spring,nodejs,npm" />
    <br>
-    <img src="https://skillicons.dev/icons?i=ai,figma" />
+    <img src="https://skillicons.dev/icons?i=ai,figma,aws,azure" />
   </a>
 </p>
 
