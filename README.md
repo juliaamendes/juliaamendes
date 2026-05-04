@@ -1,7 +1,7 @@
- <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Oii,+eu+sou+a+Julia+Mendes;Developer💻;Seja+bem-vindo+ao+meu+Github🩷" alt="Typing SVG">
+ <img  height="100" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Oii,+eu+sou+a+Julia+Mendes;Developer💻;Seja+bem-vindo+ao+meu+Github🩷" alt="Typing SVG">
 <table>
   
-   <td>
+  <td width="700">
     ### A little more about me...
 
 ```c
@@ -76,13 +76,6 @@ Desenvolvedor eu = {
 </p>
 
 ---
-    
- 
-</div>
-
-<br/>
-
-<br>
 
 **Joven aprendiz do Metrô São Paulo** \
 [**SENAI - "Anchieta" **](https://sp.senai.br/unidade/conectividade/) •
