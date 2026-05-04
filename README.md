@@ -56,9 +56,6 @@ class SobreMim extends Desenvolvedor {
 
 
 
-
-
----
 ## &nbsp;Ambientes
 
 <p align="center">
