@@ -1,7 +1,7 @@
  <img  height="100" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Oii,+eu+sou+a+Julia+Mendes;Developer💻;Seja+bem-vindo+ao+meu+Github🩷" alt="Typing SVG">
 <table>
   
-  <td width="700">
+  <td width="600">
     ### A little more about me...
 
 ```c
@@ -25,7 +25,7 @@ Desenvolvedor eu = {
 
 <!-- IMAGEM (direita) -->
 <td align="right">
-  <img width="300" src="https://github.com/user-attachments/assets/85b699be-f0c6-40b9-8e86-30dea75170d0" />
+  <img width="400" src="https://github.com/user-attachments/assets/85b699be-f0c6-40b9-8e86-30dea75170d0" />
 </td>
 ```
 
