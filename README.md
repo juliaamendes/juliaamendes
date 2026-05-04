@@ -1,26 +1,37 @@
  <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8&lines=Oii,+eu+sou+a+Julia+Mendes;Developer💻;Seja+bem-vindo+ao+meu+Github🩷" alt="Typing SVG">
 <table>
-  <tr>
+  
+   <td>
+    ### A little more about me...
 
-  </tr>
-</table height="200">
+```c
+typedef struct {
+    char *nome;
+    char *area;
+    char *curso;
+    char *experiencia;
+} Desenvolvedor;
 
-
-
-###  A little more about me...
-
-```js
-import Desenvolvedor from "Julia Mendes";
-
-class SobreMim extends Desenvolvedor {
-  nome = "Julia Mendes";
-  area = "Automação";
-  curso = Engenharia Mecânica e Desenvolvimento de Sistemas 
-  \\ jovem aprendiz no Metro de São Paulo
-}
-
-
+Desenvolvedor eu = {
+    "Julia Mendes",
+    "Automacao",
+    "Engenharia Mecanica + Dev de Sistemas",
+    "Jovem Aprendiz no Metro de Sao Paulo"
+};
 ```
+
+
+</td>
+
+<!-- IMAGEM (direita) -->
+<td align="right">
+  <img width="300" src="https://github.com/user-attachments/assets/85b699be-f0c6-40b9-8e86-30dea75170d0" />
+</td>
+```
+
+  
+</table>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=juliaamendes&show_icons=true&theme=dark"
