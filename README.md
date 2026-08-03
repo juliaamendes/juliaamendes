@@ -16,7 +16,7 @@ Desenvolvedor eu = {
     "Julia Mendes",
     "Automacao",
     "Engenharia Mecanica + Dev de Sistemas",
-    "Jovem Aprendiz no Metro de Sao Paulo"
+    "Aprendiz na CPTM"
 };
 ```
 
