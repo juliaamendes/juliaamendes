@@ -69,8 +69,11 @@ Desenvolvedor eu = {
 ## &nbsp;Redes Sociais 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman,pycharm" />
+  <a href="https://www.instagram.com/mecanicaju?utm_source=qr">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+ <a href="https://www.linkedin.com/in/julia-mendes-cordeiro/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
