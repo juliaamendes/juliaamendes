@@ -15,7 +15,7 @@ typedef struct {
 Desenvolvedor eu = {
     "Julia Mendes",
     "Automacao",
-    "Engenharia Mecanica + Dev de Sistemas",
+    "Engenharia Mecanica + Dev de Sistemas + Administração",
     "Aprendiz na CPTM"
 };
 ```
@@ -66,8 +66,12 @@ Desenvolvedor eu = {
 </p>
 
 ---
+## &nbsp;Redes Sociais 
 
-**Joven aprendiz do Metrô São Paulo** \
-[**SENAI - "Anchieta" **](https://sp.senai.br/unidade/conectividade/) •
----
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman,pycharm" />
+  </a>
+</p>
+
 
